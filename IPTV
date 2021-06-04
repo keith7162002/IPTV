@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:6.000,
+stream.php?ts=Sony_Pix_HD/Sony_Pix_HD_800-1622792386000.ts
+#EXTINF:6.000,
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/16.m3u8?
